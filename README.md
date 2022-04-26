@@ -14,9 +14,6 @@ https://youtu.be/Uzy28osev5g
 
 Bu adımda firefox internete bağlanmıyorsa başta değiştirdiğimiz ağ bağdaştırıcısı seçeneğini NAT yaparak denemelisiniz. İnternet gereken durumlarda bu ayarı yapıp diğer kısımlarda baştaki duruma (Yalnızca Anamakine Bağdaştırıcısı) getirmeyi unutmayın. 
 
-![1](https://user-images.githubusercontent.com/61375345/164943820-0ae7853e-c04a-4ac1-b81f-7e92af2850e6.png)
-![2](https://user-images.githubusercontent.com/61375345/164943845-e2a2b2fb-1fb0-439b-8eb3-1f2bbe7f50ad.png)
-![3](https://user-images.githubusercontent.com/61375345/164943918-a73755b6-0283-4848-9539-254806ce5687.png)
 ![4](https://user-images.githubusercontent.com/61375345/164944060-5ad32495-557d-4e0c-aa2a-d9ee03088840.png)
 ![5](https://user-images.githubusercontent.com/61375345/164944274-e7602a0b-e751-42d3-b550-bb43485a2956.png)
 ![7](https://user-images.githubusercontent.com/61375345/164944339-3b922fcb-6bbb-48f4-bf95-8191dba2a229.png)
